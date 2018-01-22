@@ -1,6 +1,7 @@
 *.pyc
 datasets/
-experiments/
+experiment/logs
+experiment/sample
 image_dir/
 assets/
 .DS_Store
